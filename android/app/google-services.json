@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493769135029",
+    "project_id": "notaya-2d760",
+    "storage_bucket": "notaya-2d760.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493769135029:android:8d3491140c8b5544417ffc",
+        "android_client_info": {
+          "package_name": "com.example.notes_local"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5o25evMgYwYh2t30TtRaJJ5mbJfMG4Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493769135029:android:e7f15d3dcb1949fe417ffc",
+        "android_client_info": {
+          "package_name": "com.notaya.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5o25evMgYwYh2t30TtRaJJ5mbJfMG4Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
